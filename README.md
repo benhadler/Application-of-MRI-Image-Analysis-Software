@@ -1,6 +1,6 @@
 # Introduction-to-Neurohacking-in-R
 
-These files contain contain code manipulating, processing and analyzing MRI data using ANTS and FSL following the coursera course Introduction to Neurohacking In R by Johns Hopkins University.
+These files contain contain code manipulating, processing and analyzing MRI data using ANTS and FSL under the course Introduction to Neurohacking In R by Johns Hopkins University.
 
 Files contain programs designed to: 
 - Read/write images of the brain in the NIfTI (Neuroimaging Informatics Technology Initiative) format
