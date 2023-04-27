@@ -1,4 +1,4 @@
-# Introduction-to-Neurohacking-in-R
+# MRI Image Analysis
 
 These files contain contain code manipulating, processing and analyzing MRI data using ANTS and FSL under the course Introduction to Neurohacking In R by Johns Hopkins University.
 
